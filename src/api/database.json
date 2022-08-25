@@ -1,0 +1,126 @@
+{
+  "hobbies": [
+    {
+      "id": 1,
+      "name": "Football"
+    },
+    {
+      "id": 2,
+      "name": "Photography"
+    },
+    {
+      "id": 3,
+      "name": "Books"
+    },
+    {
+      "id": 4,
+      "name": "Travel"
+    },
+    {
+      "id": 5,
+      "name": "Poetry"
+    }
+  ],
+  "iconDark": [
+    { "id": 1, "name": "github icon", "img": "github-icon--dark.svg" },
+    { "id": 2, "name": "javascript icon", "img": "js-icon--dark.svg" },
+    { "id": 3, "name": "vue javascript icon", "img": "vuejs-icon--dark.svg" },
+    { "id": 4, "name": "gulp icon", "img": "gulp-icon--dark.svg" },
+    {
+      "id": 5,
+      "name": "node package manager icon",
+      "img": "npm-icon--dark.svg"
+    },
+    { "id": 6, "name": "css icon", "img": "css-icon--dark.svg" },
+    { "id": 7, "name": "sass icon", "img": "sass-icon--dark.svg" },
+    { "id": 8, "name": "html icon", "img": "html-icon--dark.svg" }
+  ],
+  "iconLight": [
+    { "id": 1, "name": "github icon", "img": "github-icon--light.svg" },
+    { "id": 2, "name": "javascript icon", "img": "js-icon--light.svg" },
+    { "id": 3, "name": "vue javascript icon", "img": "vuejs-icon--light.svg" },
+    { "id": 4, "name": "gulp icon", "img": "gulp-icon--light.svg" },
+    {
+      "id": 5,
+      "name": "node package manager icon",
+      "img": "npm-icon--light.svg"
+    },
+    { "id": 6, "name": "css icon", "img": "css-icon--light.svg" },
+    { "id": 7, "name": "sass icon", "img": "sass-icon--light.svg" },
+    { "id": 8, "name": "html icon", "img": "html-icon--light.svg" }
+  ],
+  "iconBlue": [
+    { "id": 1, "name": "github icon", "img": "github-icon--blue.svg" },
+    { "id": 2, "name": "javascript icon", "img": "js-icon--blue.svg" },
+    { "id": 3, "name": "vue javascript icon", "img": "vuejs-icon--blue.svg" },
+    { "id": 4, "name": "gulp icon", "img": "gulp-icon--blue.svg" },
+    {
+      "id": 5,
+      "name": "node package manager icon",
+      "img": "npm-icon--blue.svg"
+    },
+    { "id": 6, "name": "css icon", "img": "css-icon--blue.svg" },
+    { "id": 7, "name": "sass icon", "img": "sass-icon--blue.svg" },
+    { "id": 8, "name": "html icon", "img": "html-icon--blue.svg" }
+  ],
+  "phone": [
+    {
+      "id": 1,
+      "name": "+380953577574",
+      "alt": "phone icon",
+      "img": "phone-icon.svg",
+      "href": "tel:+380953577574"
+    },
+    {
+      "id": 2,
+      "name": "@mtereshyn",
+      "alt": "telegram icon",
+      "img": "telegram-icon.svg",
+      "href": "https://t.me/mtereshyn"
+    },
+    {
+      "id": 3,
+      "name": "Maksym Tereshyn",
+      "alt": "whatsapp icon",
+      "img": "whatsapp-icon.svg",
+      "href": "https://api.whatsapp.com/send?%20phone=0953577574"
+    }
+  ],
+  "social": [
+    {
+      "id": 1,
+      "name": "max.tereshyn",
+      "alt": "gmail icon",
+      "img": "gmail-icon.svg",
+      "href": "mailto:max.tereshyn@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maksym Tereshyn",
+      "alt": "linkedin icon",
+      "img": "linkedin-icon.svg",
+      "href": "https://www.linkedin.com/in/mtereshyn/"
+    },
+    {
+      "id": 3,
+      "name": "mtereshyn",
+      "alt": "github icon",
+      "img": "github-icon.svg",
+      "href": "https://github.com/mtereshyn"
+    },
+    {
+      "id": 4,
+      "name": "mtereshyn",
+      "alt": "instagram icon",
+      "img": "instagram-icon.svg",
+      "href": "https://www.instagram.com/mtereshyn/?hl=ru"
+    }
+  ],
+  "emoji": [
+    { "id": 1, "name": "first emoji", "img": "1.png" },
+    { "id": 2, "name": "second emoji", "img": "2.png" },
+    { "id": 3, "name": "third emoji", "img": "3.png" },
+    { "id": 4, "name": "foth emoji", "img": "4.png" },
+    { "id": 5, "name": "fifth emoji", "img": "5.png" }
+  ]
+}
