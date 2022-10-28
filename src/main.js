@@ -5,6 +5,10 @@ import store from "./store";
 
 import "@/assets/styles/global.sass";
 
+import VueEllipseProgress from "vue-ellipse-progress";
+
+Vue.use(VueEllipseProgress);
+
 import VueRouter from "vue-router";
 
 Vue.config.productionTip = false;

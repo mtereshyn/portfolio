@@ -44,6 +44,13 @@ export default {
       color: #263238
       box-shadow: 0px 0px 13px rgba(33, 33, 33, 0.8)
 
+.arrow
+  border: none
+  background-color: inherit
+  max-height: 30px
+  &--prev
+    transform: rotate(180deg)
+
 .app-button__image
   width: 100%
 </style>

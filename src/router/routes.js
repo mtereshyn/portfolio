@@ -3,4 +3,5 @@ export const ROUTES = {
   home: "home",
   portfolio: "portfolio",
   contact: "contact",
+  afrianska: "afrianska",
 };

@@ -55,8 +55,8 @@ export default {
 @media screen and (max-width: 768px)
   .wrapper
     overflow: hidden
-.general-slider
-  display: flex
-  transition: all ease .5s
-  max-width: 100px
+  .general-slider
+    display: flex
+    transition: all ease .5s
+    max-width: 100px
 </style>

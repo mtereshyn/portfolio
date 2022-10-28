@@ -86,6 +86,11 @@ export default {
   &--light
     color: #263238
 
+
+.home-footer-nav__item::after
+  display: none
+
+
 @media screen and (max-width: 768px)
   .home-footer-nav
     align-items: center

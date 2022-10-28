@@ -16,7 +16,7 @@
 import HomeHeader from "@/components/HomeHeader";
 import General from "@/components/General";
 import About from "@/components/About.vue";
-import HomeFooter from "@/components/HomeFooter.vue";
+import HomeFooter from "@/components/HomeFooter";
 export default {
   name: "home",
   components: {

@@ -1,16 +1,12 @@
 module.exports = {
-  transpileDependencies: ["vuetify"],
-};
-module.exports = {
   chainWebpack: (config) => {
     config.module
-      .rule("downloads")
-      // bundle common document files
-      .test(/\.(pdf|docx?|xlsx?|csv|pptx?)(\?.*)?$/)
+      .rule("pdf")
+      .test(/\.(pdf)(\?.*)?$/)
       .use("file-loader")
-      // use the file-loader
       .loader("file-loader")
-      // bundle into the "downloads" directory
-      .options({ name: "downloads/[name].[hash:8].[ext]" });
+      .options({
+        name: "assets/pdf/[name].[hash:8].[ext]",
+      });
   },
 };

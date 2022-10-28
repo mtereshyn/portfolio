@@ -122,5 +122,73 @@
     { "id": 3, "name": "third emoji", "img": "3.png" },
     { "id": 4, "name": "foth emoji", "img": "4.png" },
     { "id": 5, "name": "fifth emoji", "img": "5.png" }
+  ],
+  "skills": [
+    { "id": 1, "name": "Git", "value": "75" },
+    { "id": 2, "name": "JS", "value": "75" },
+    { "id": 3, "name": "VueJS(Vuex)", "value": "65" },
+    { "id": 4, "name": "HTML(Pug)", "value": "100" },
+    { "id": 5, "name": "CSS(SASS/SCSS)", "value": "75" },
+    { "id": 6, "name": "npm", "value": "75" },
+    { "id": 7, "name": "Gulp", "value": "50" },
+    { "id": 8, "name": "Figma", "value": "55" },
+    { "id": 9, "name": "C", "value": "35" },
+    { "id": 10, "name": "REST API", "value": "55" }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "name": "barbershop website image",
+      "img": "barbershop-website.png",
+      "href": "/barbershop"
+    },
+    {
+      "id": 2,
+      "name": "john website image",
+      "img": "john-website.png",
+      "href": "/john"
+    },
+    {
+      "id": 3,
+      "name": "classcamp website image",
+      "img": "classcamp-website.png",
+      "href": "/classcamp"
+    },
+    {
+      "id": 4,
+      "name": "cutspace website image",
+      "img": "cutspace-website.png",
+      "href": "/cutspace"
+    },
+    {
+      "id": 5,
+      "name": "gitpod website image",
+      "img": "gitpod-website.png",
+      "href": "/gitpod"
+    },
+    {
+      "id": 6,
+      "name": "doo website image",
+      "img": "doo-website.png",
+      "href": "/doo"
+    },
+    {
+      "id": 7,
+      "name": "humankind website image",
+      "img": "humankind-website.png",
+      "href": "/humankind"
+    },
+    {
+      "id": 8,
+      "name": "landie website image",
+      "img": "landie-website.png",
+      "href": "landie"
+    },
+    {
+      "id": 9,
+      "href": "/afrianska",
+      "name": "afrianska website image",
+      "img": "afrianska-website.png"
+    }
   ]
 }

@@ -71,9 +71,9 @@ export default {
     newList: function () {
       if (this.isDark) {
         return this.iconLight;
-      } else if (this.isDark && window.screen.width > 768) {
+      } else if (this.isDark && window.screen.width >= 768) {
         return this.iconBlue;
-      } else if (window.screen.width > 768) {
+      } else if (window.screen.width >= 768) {
         return this.iconBlue;
       } else {
         return this.iconDark;

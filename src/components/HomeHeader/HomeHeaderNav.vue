@@ -89,8 +89,7 @@ export default {
 .home-header-nav__item:hover
   opacity: 1
 
-.router-link-exact-active
-  opacity: 1
+
 
 .router-link-exact-active::after
   display: block
@@ -118,6 +117,8 @@ export default {
   &--light
     color: #263238
 
+.router-link-exact-active
+  opacity: 1
 @media screen and (max-width: 768px)
   .home-header-nav
     padding: 40px 0

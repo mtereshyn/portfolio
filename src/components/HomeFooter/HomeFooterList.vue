@@ -55,4 +55,9 @@ export default {
   display: flex
   flex-direction: column
   gap: 30px
+
+.home-footer-list
+  display: flex
+  flex-direction: column
+  gap: 10px
 </style>
